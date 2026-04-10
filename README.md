@@ -1,4 +1,4 @@
-# Warsaw Student Assistant Bot 🇵🇱
+# Discord Music Bot  🇵🇱
 
 A Discord bot featuring a YouTube music queue system and live PLN exchange rates.
 
